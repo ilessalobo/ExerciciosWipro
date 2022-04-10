@@ -9,11 +9,11 @@ Projeto com foco em java, exercicios Televisao/Controle, Alunos e Funcionarios .
 
   <div>
 <ul>
-	<li>Ilessa Lobo</li>
-	<li>Roberto Brito</li>
-  <li>Thiago Araujo</li>
-  <li>Paulo Henrique</li>
-  <li>Pedro Chaves</li>
+<li>Ilessa Lobo</li>
+<li>Roberto Brito</li>
+<li>Thiago Araujo</li>
+<li>Paulo Henrique</li>
+<li>Pedro Chaves</li>
 </ul>
   </div>
   <br>
